@@ -6,7 +6,7 @@ With over 8 years of professional experience in software development, I've gaine
 </p>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-6.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">

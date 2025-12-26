@@ -1,8 +1,7 @@
 <h1>👋 Hi, I’m Alex!</h1>
 
 <p>
-I’m a senior backend-focused software engineer with over 8 years of experience
-building scalable systems, APIs and backend architectures.
+I’m a backend-focused software engineer with over 8 years of experience building scalable systems, APIs and well-structured backend applications.
 </p>
 
 <p>My work focuses on:</p>
